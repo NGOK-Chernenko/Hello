@@ -72,6 +72,7 @@ void div(double a, double b)
         printf("res = %lf\n", a / b);
     } else {
         printf("NA ZERO DIV NENADO!\n");
+        printf("DA DA DA dA\n");
     }
 }
 
