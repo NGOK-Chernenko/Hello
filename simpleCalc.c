@@ -71,7 +71,7 @@ void div(double a, double b)
     if (b != 0) {
         printf("res = %lf\n", a / b);
     } else {
-        printf("NA ZERO DIV NENADO!\n");
+        printf("NA 0 DIV NENADO!\n");
     }
 }
 
