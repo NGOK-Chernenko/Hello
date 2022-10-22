@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 void div(double a, double b);
 void mult(double a, double b);
